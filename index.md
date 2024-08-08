@@ -3,7 +3,7 @@ title =  "Neo4J: Supreme Court Explore"
 description = "Exploring a Seeded Knoledge Graph"
 tags = ['Java', "neo4j","databases"]
 images = ["images/feature-image.png"]
-date = "2024-08-08T15:10:02-05:00"
+date = "2024-08-08T14:10:52-05:00"
 categories = ["projects"]
 series = ["Java"]
 +++
