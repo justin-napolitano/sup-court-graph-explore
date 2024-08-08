@@ -1,3 +1,13 @@
++++
+title =  "Neo4J: Supreme Court Explore"
+description = "Exploring a Seeded Knoledge Graph"
+tags = ['Java', "neo4j","databases"]
+images = ["images/feature-image.png"]
+date = "2024-08-08T15:10:02-05:00"
+categories = ["projects"]
+series = ["Java"]
++++
+
 # Supreme Court Graph Explore
 
 In the past few posts, I built a knowledge graph based on some metadata. It was an enjoyable experience, but what is the real purpose behind it?
@@ -708,3 +718,19 @@ MERGE (c)-[:WROTE_ABOUT]->(sub)
 RETURN c, item_count, subjects;
 
 ```
+
+
+## Further Questions
+
+So I want to know more.. I need to seed the graph. This will come after expanding my infrastrucutre. 
+
+1. I want to know which parties were subject to the case
+2. I want to know the justices' sentiment towards the case
+3. I want to know the justices' political parties
+4. I want to know the justices' sentiment towards precedent
+5. I want to know the justices' values
+6. I want to know the justices' attitudes towards legal doctrines
+7. I want to know which cases justices' cited
+8. I want to know which clause of the constitution was examined
+9. I want to know which legislation was argued. 
+10. I want to know which issues a justice covered and their sentiment towards them
