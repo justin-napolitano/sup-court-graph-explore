@@ -6,8 +6,8 @@ repo: justin-napolitano/sup-court-graph-explore
 githubUrl: https://github.com/justin-napolitano/sup-court-graph-explore
 title: Exploring a Supreme Court Knowledge Graph with Neo4j
 summary: >-
-  This article details the process of building and exploring a knowledge graph
-  for Supreme Court cases using Neo4j.
+  This article details the process of building and exploring a knowledge graph for Supreme Court
+  cases using Neo4j.
 tags:
   - neo4j
   - databases
@@ -19,6 +19,8 @@ seoSecondaryKeywords:
   - data modeling for graphs
   - supreme court case analysis
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 ---
 
 +++
