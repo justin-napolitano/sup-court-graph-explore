@@ -1,3 +1,26 @@
+---
+kind: project
+slug: github-sup-court-graph-explore
+id: github-sup-court-graph-explore
+repo: justin-napolitano/sup-court-graph-explore
+githubUrl: https://github.com/justin-napolitano/sup-court-graph-explore
+title: Exploring a Supreme Court Knowledge Graph with Neo4j
+summary: >-
+  This article details the process of building and exploring a knowledge graph
+  for Supreme Court cases using Neo4j.
+tags:
+  - neo4j
+  - databases
+  - sql
+seoPrimaryKeyword: supreme court knowledge graph
+seoSecondaryKeywords:
+  - neo4j ingestion process
+  - graph exploration techniques
+  - data modeling for graphs
+  - supreme court case analysis
+seoOptimized: true
+---
+
 +++
 title =  "Neo4J: Supreme Court Explore"
 description = "Exploring a Seeded Knoledge Graph"
